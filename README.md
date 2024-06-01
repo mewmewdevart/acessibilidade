@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mewmewdevart/acessibilidade/assets/50052600/a36846db-b208-485e-be3b-8dafeb62d636" alt="Ícone de Acessibilidade" width="100px"/>
+  <img src="https://github.com/mewmewdevart/acessibilidade/assets/50052600/ae092e53-a046-4023-91d8-ba2996c1d558" alt="Ícone de Acessibilidade" width="100px"/>
 </p>
 
 <h1 align="center">
